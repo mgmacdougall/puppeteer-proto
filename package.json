@@ -1,0 +1,17 @@
+{
+  "name": "navigating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":  "mocha --timeout=30000 --no-sandbox --disable-extensions --reporter=list"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.3.4",
+    "mocha": "8.3.2",
+    "puppeteer": "9.0.0"
+  }
+}
